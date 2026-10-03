@@ -39,14 +39,7 @@
 >
 > [**Source**](https://github.com/kaiizer777/onyx-research-agent)
 
-<details>
-<summary><b>Also shipped</b></summary>
-
-- **[MultiTenant SaaS](https://multiitenant.online)** — B2B2C platform: 100+ API routes, 33 tables, tenant subdomains, GST invoicing with atomic payment allocation, AES-256-GCM PII, RAG advisor.
-- **[SIH2026](https://github.com/kaiizer777/SIH2026)** — Rockfall prediction for the Ministry of Mines: SAR change detection + DEM morphology + physics-informed sensor dynamics.
-- **[beat](https://github.com/kaiizer777/beat)** — Scheduled AI news digest with user-defined topic channels.
-
-</details>
+**Also shipped** — [**MultiTenant SaaS**](https://multiitenant.online): B2B2C platform, 100+ API routes, 33 tables, tenant subdomains, GST invoicing with atomic payment allocation, AES-256-GCM PII, RAG advisor.
 
 <p align="center"><img src="https://raw.githubusercontent.com/kaiizer777/kaiizer777/main/assets/rule.svg" alt="" width="100%"></p>
 
@@ -77,6 +70,6 @@
 
 ---
 
-**B.E. Information Technology** — Rajiv Gandhi Institute of Technology, Andheri, Mumbai · 2029. Hackathon offline round as primary developer.
+**B.E. Information Technology** — Rajiv Gandhi Institute of Technology, Andheri, Mumbai
 
 <p align="center"><sub>Portfolio · <a href="https://portfolio-sufiyan.pages.dev">portfolio-sufiyan.pages.dev</a></sub></p>
