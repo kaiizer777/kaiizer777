@@ -6,38 +6,14 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-sufiyan.pages.dev)
 [![Email](https://img.shields.io/badge/Email-mdsufiyanbari866%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsufiyanbari866@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%2087099%2014537-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918709914537)
 [![GitHub](https://img.shields.io/badge/GitHub-kaiizer777-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaiizer777)
 [![Live SaaS](https://img.shields.io/badge/Live%20SaaS-multiitenant.online-6366F1?style=for-the-badge&logo=googlecloud&logoColor=white)](https://multiitenant.online)
 
 <p align="center"><img src="https://raw.githubusercontent.com/kaiizer777/kaiizer777/main/assets/rule.svg" alt="" width="100%"></p>
 
-> Self-taught across **Rust · Go · TypeScript · Python**. I build whole systems — browser agents driving real Chromium over CDP, serverless AI orchestrators, multi-tenant SaaS with real payment rails. Everything below is deployed, documented and tested; none of it came from a tutorial.
+> Self-taught across **Rust · Go · TypeScript · Python**. I build whole systems — browser agents driving real Chromium over CDP, serverless AI orchestrators, multi-tenant SaaS with real payment rails. Everything I ship is deployed, documented and tested; none of it came from a tutorial.
 >
 > **Open to** remote Full Stack / AI engineering roles.
-
-## Featured Work
-
-### Haunter — autonomous CI self-healing
-> Webhook-triggered root cause → candidate patch → verification in an isolated zero-trust GitHub Actions sandbox → auditable PR. Plus a read-only Auditor mode, an in-browser WebContainer studio, and a 20-fixture eval harness.
->
-> `Next.js 16` `FastAPI` `Neon Postgres` `AWS Lambda` `Cloudflare Workers` `GitHub Actions`
->
-> [**Live dashboard**](https://haunter.sufiyanx.workers.dev) · [**Source**](https://github.com/kaiizer777/Haunter)
-
-### mew-agent — Rust computer-use agent
-> An 8-crate workspace turning natural language into real browser work. Perception is accessibility-tree-first, not screenshot-first, holding average snapshots near 2 KB. A `ChatAgent` plans, a `BrowserAgent` executes, via typed handoff contracts.
->
-> `Rust` `Tokio` `CDP` `Tauri 2` — 553 workspace tests, 313-case eval harness
->
-> [**Source**](https://github.com/kaiizer777/mew-agent)
-
-### onyx-research-agent — $0/month research engine
-> ReAct agent over a parallel discovery layer — self-hosted SearXNG plus free-tier TinyFish and Jina, routing around blocked targets automatically. Deep Research splits a query into sub-questions, researches them in parallel, and compiles a cited report into a SQLite FTS5 lake.
->
-> `Go` `Colly` `go-rod` `SearXNG` `SQLite FTS5` `Telegram API`
->
-> [**Source**](https://github.com/kaiizer777/onyx-research-agent)
 
 **Also shipped** — [**MultiTenant SaaS**](https://multiitenant.online): B2B2C platform, 100+ API routes, 33 tables, tenant subdomains, GST invoicing with atomic payment allocation, AES-256-GCM PII, RAG advisor.
 
@@ -68,7 +44,7 @@
 
 </details>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/kaiizer777/kaiizer777/main/assets/rule.svg" alt="" width="100%"></p>
 
 **B.E. Information Technology** — Rajiv Gandhi Institute of Technology, Andheri, Mumbai
 
