@@ -2,7 +2,7 @@
 
 # Md Sufiyan Bari
 
-**Full Stack Engineer** — autonomous AI agents, self-hosted research engines, production SaaS.
+**Full Stack Engineer** — autonomous AI agents, self-hosted deep-research engines, production SaaS.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -11,11 +11,11 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/kaiizer777/kaiizer777/main/assets/rule.svg" alt="" width="100%"></p>
 
-Self-taught across **Rust · Go · TypeScript · Python**. I build whole systems — browser agents driving real Chromium over CDP, serverless AI orchestrators, multi-tenant SaaS with real payment rails. Everything I ship is deployed, documented and tested; none of it came from a tutorial.
+Self-taught engineer specializing in TypeScript and Python, with working knowledge of Go and Rust. I design and ship complete systems end-to-end — from browser agents that control real Chromium instances via CDP, to serverless AI orchestrators and multi-tenant SaaS platforms with live payment infrastructure. 
 
 **Open to** remote Full Stack / AI engineering roles.
 
-> **Also shipped** — [**MultiTenant SaaS**](https://multiitenant.online): B2B2C platform, 100+ API routes, 33 tables, tenant subdomains, GST invoicing with atomic payment allocation, AES-256-GCM PII, RAG advisor.
+>[**MultiTenant SaaS**](https://multiitenant.online): B2B2C platform, 100+ API routes, 33 tables, tenant subdomains, GST invoicing with atomic payment allocation, AES-256-GCM PII, RAG advisor.
 
 <p align="center"><img src="https://raw.githubusercontent.com/kaiizer777/kaiizer777/main/assets/rule.svg" alt="" width="100%"></p>
 
