@@ -1,45 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" fill="none" role="img" aria-label="Md Sufiyan Bari - Full Stack Engineer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" fill="none" role="img" aria-label="Md Sufiyan Bari - Full Stack Engineer">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="180" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#07070C"/>
-      <stop offset="0.55" stop-color="#0B0A15"/>
-      <stop offset="1" stop-color="#0E0A1C"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="140" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#06060A"/>
+      <stop offset="0.55" stop-color="#090A10"/>
+      <stop offset="1" stop-color="#0C0A08"/>
     </linearGradient>
-    <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(190 18) rotate(26) scale(580 320)">
-      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.32"/>
-      <stop offset="0.6" stop-color="#22D3EE" stop-opacity="0.08"/>
-      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(210 12) rotate(24) scale(600 300)">
+      <stop offset="0" stop-color="#00ADD8" stop-opacity="0.34"/>
+      <stop offset="0.55" stop-color="#00ADD8" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#00ADD8" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glowViolet" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1010 168) rotate(-152) scale(640 340)">
-      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.34"/>
-      <stop offset="0.6" stop-color="#8B5CF6" stop-opacity="0.09"/>
-      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glowPink" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(720 -30) rotate(90) scale(240 420)">
-      <stop offset="0" stop-color="#E879F9" stop-opacity="0.16"/>
-      <stop offset="1" stop-color="#E879F9" stop-opacity="0"/>
+    <radialGradient id="glowAmber" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1010 132) rotate(-152) scale(520 280)">
+      <stop offset="0" stop-color="#F59E0B" stop-opacity="0.20"/>
+      <stop offset="0.6" stop-color="#F59E0B" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="edge" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#22D3EE"/>
-      <stop offset="0.45" stop-color="#818CF8"/>
-      <stop offset="1" stop-color="#E879F9"/>
-    </linearGradient>
-    <linearGradient id="sheen" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
-      <stop offset="0.48" stop-color="#FFFFFF" stop-opacity="0.055"/>
-      <stop offset="0.62" stop-color="#FFFFFF" stop-opacity="0"/>
-      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0" stop-color="#00ADD8"/>
+      <stop offset="0.45" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#F59E0B"/>
     </linearGradient>
     <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <circle cx="1.4" cy="1.4" r="1.15" fill="#94A3B8" fill-opacity="0.11"/>
+      <circle cx="1.4" cy="1.4" r="1.15" fill="#94A3B8" fill-opacity="0.10"/>
     </pattern>
   </defs>
 
-  <rect width="1200" height="180" fill="url(#bg)"/>
-  <rect width="1200" height="180" fill="url(#grid)"/>
-  <rect width="1200" height="180" fill="url(#glowCyan)"/>
-  <rect width="1200" height="180" fill="url(#glowViolet)"/>
-  <rect width="1200" height="180" fill="url(#glowPink)"/>
-  <rect y="-140" width="1200" height="300" fill="url(#sheen)" transform="rotate(-8 600 90)"/>
-  <rect y="176.5" width="1200" height="3.5" fill="url(#edge)"/>
+  <rect width="1200" height="140" fill="url(#bg)"/>
+  <rect width="1200" height="140" fill="url(#grid)"/>
+  <rect width="1200" height="140" fill="url(#glowCyan)"/>
+  <rect width="1200" height="140" fill="url(#glowAmber)"/>
+  <rect y="137" width="1200" height="3" fill="url(#edge)"/>
 </svg>
