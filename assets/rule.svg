@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="8" viewBox="0 0 800 8" fill="none" role="presentation" aria-hidden="true">
+  <defs>
+    <linearGradient id="rule" x1="0" y1="0" x2="800" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00ADD8" stop-opacity="0"/>
+      <stop offset="0.22" stop-color="#00ADD8" stop-opacity="0.95"/>
+      <stop offset="0.62" stop-color="#22D3EE" stop-opacity="0.95"/>
+      <stop offset="0.88" stop-color="#F59E0B" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect y="3" width="800" height="2" rx="1" fill="url(#rule)"/>
+</svg>
