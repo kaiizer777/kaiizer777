@@ -11,11 +11,11 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/kaiizer777/kaiizer777/main/assets/rule.svg" alt="" width="100%"></p>
 
-> Self-taught across **Rust · Go · TypeScript · Python**. I build whole systems — browser agents driving real Chromium over CDP, serverless AI orchestrators, multi-tenant SaaS with real payment rails. Everything I ship is deployed, documented and tested; none of it came from a tutorial.
->
-> **Open to** remote Full Stack / AI engineering roles.
+Self-taught across **Rust · Go · TypeScript · Python**. I build whole systems — browser agents driving real Chromium over CDP, serverless AI orchestrators, multi-tenant SaaS with real payment rails. Everything I ship is deployed, documented and tested; none of it came from a tutorial.
 
-**Also shipped** — [**MultiTenant SaaS**](https://multiitenant.online): B2B2C platform, 100+ API routes, 33 tables, tenant subdomains, GST invoicing with atomic payment allocation, AES-256-GCM PII, RAG advisor.
+**Open to** remote Full Stack / AI engineering roles.
+
+> **Also shipped** — [**MultiTenant SaaS**](https://multiitenant.online): B2B2C platform, 100+ API routes, 33 tables, tenant subdomains, GST invoicing with atomic payment allocation, AES-256-GCM PII, RAG advisor.
 
 <p align="center"><img src="https://raw.githubusercontent.com/kaiizer777/kaiizer777/main/assets/rule.svg" alt="" width="100%"></p>
 
