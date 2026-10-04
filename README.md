@@ -19,7 +19,7 @@ Self-taught engineer specializing in TypeScript and Python, with working knowled
 
 <p align="center"><img src="https://raw.githubusercontent.com/kaiizer777/kaiizer777/main/assets/rule.svg" alt="" width="100%"></p>
 
-## Open Source
+## Open-Source Contribution
 
 **Better Auth** — 6 merged documentation PRs into the most comprehensive TypeScript auth framework.
 
