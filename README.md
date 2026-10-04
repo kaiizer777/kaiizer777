@@ -36,6 +36,6 @@ Self-taught engineer specializing in TypeScript and Python, with working knowled
 
 <p align="center"><img src="https://raw.githubusercontent.com/kaiizer777/kaiizer777/main/assets/rule.svg" alt="" width="100%"></p>
 
-**B.E. Information Technology** — Rajiv Gandhi Institute of Technology, Andheri, Mumbai - 2025-2029
+**B.E. Information Technology** — Rajiv Gandhi Institute of Technology, Andheri, Mumbai, India  - 2025-2029
 
 <p align="center"><sub>Portfolio · <a href="https://portfolio-sufiyan.pages.dev">portfolio-sufiyan.pages.dev</a></sub></p>
