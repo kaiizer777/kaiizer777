@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:06B6D4&height=220&section=header&text=Md%20Sufiyan%20Bari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Engineer&descAlignY=58&descSize=20"/>
+<img src="https://raw.githubusercontent.com/kaiizer777/kaiizer777/main/assets/banner.svg" alt="Md Sufiyan Bari — Full Stack Engineer" width="100%">
 
 <p align="center">
   <a href="https://github.com/kaiizer777">
@@ -80,19 +80,17 @@ Self-taught engineer specializing in **TypeScript** and **Python**, with working
 </p>
 
 <!-- OSS_CONTRIBS_START -->
-**better-auth/better-auth** — 9 merged PRs
-
-| PR | Title |
+| PR | Contribution |
 | :-- | :-- |
-| [#11703](https://github.com/better-auth/better-auth/pull/11703) | docs(sso): clarify SAML callbackUrl vs ACS endpoint in 1.7 |
-| [#11687](https://github.com/better-auth/better-auth/pull/11687) | fix(sso): allow rotating SAML IdP signing certificate with linked accounts |
-| [#11663](https://github.com/better-auth/better-auth/pull/11663) | fix(core): verify microsoft entra id tokens when jwks keys omit alg |
-| [#11499](https://github.com/better-auth/better-auth/pull/11499) | docs(email-password): correct APIMethod contracts |
-| [#11497](https://github.com/better-auth/better-auth/pull/11497) | docs(magic-link): correct APIMethod contract and document rateLimit |
-| [#11492](https://github.com/better-auth/better-auth/pull/11492) | docs(rate-limit): correct default window |
-| [#11456](https://github.com/better-auth/better-auth/pull/11456) | docs(chargebee): fix cli command and update migration guidance |
-| [#11454](https://github.com/better-auth/better-auth/pull/11454) | docs: update test helper import in contributing guide |
-| [#11453](https://github.com/better-auth/better-auth/pull/11453) | docs: update CLI command in drizzle adapter guide |
+| [#11687](https://github.com/better-auth/better-auth/pull/11687) | `sso` fix — allow rotating SAML IdP signing certificate with linked accounts |
+| [#11730](https://github.com/better-auth/better-auth/pull/11730) | `sso` fix — accept SAML responses addressed to the callbackUrl ACS (co-authored) |
+| [#11499](https://github.com/better-auth/better-auth/pull/11499) | `email-password` — corrected `APIMethod` contracts |
+| [#11497](https://github.com/better-auth/better-auth/pull/11497) | `magic-link` — `APIMethod` contract + documented `rateLimit` |
+| [#11492](https://github.com/better-auth/better-auth/pull/11492) | `rate-limit` — corrected the default window |
+| [#11456](https://github.com/better-auth/better-auth/pull/11456) | `chargebee` — fixed CLI command, migration guidance |
+| [#11454](https://github.com/better-auth/better-auth/pull/11454) | `contributing` — updated test helper import |
+| [#11453](https://github.com/better-auth/better-auth/pull/11453) | `drizzle` — corrected the CLI command |
+| [#11703](https://github.com/better-auth/better-auth/pull/11703) | `sso` docs — clarify SAML callbackUrl vs ACS endpoint in 1.7 |
 <!-- OSS_CONTRIBS_END -->
 
 ---
