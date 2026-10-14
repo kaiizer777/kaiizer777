@@ -67,11 +67,11 @@ Self-taught engineer specializing in **TypeScript** and **Python**, with working
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaiizer777&theme=tokyo-night&hide_border=true&area=true&area_color=7C3AED&color=7C3AED&line=7C3AED&point=ffffff" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaiizer777&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaiizer777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kaiizer777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
