@@ -1,13 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Md%20Sufiyan%20Bari&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Architect&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Md%20Sufiyan%20Bari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Architect&descAlignY=58&descSize=20"/>
 
 <p align="center">
   <a href="https://github.com/kaiizer777">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Autonomous+AI+Agent+Builder+%F0%9F%A4%96;Self-Hosted+Deep-Research+Systems+%F0%9F%94%AC;Production+SaaS+Architect+%F0%9F%9A%80;Open+Source+Contributor+%E2%9C%A8;Full+Stack+%7C+TypeScript+%7C+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Autonomous+AI+Agent+Builder;Self-Hosted+Deep-Research+Systems;Production+SaaS+Architect;Open+Source+Contributor;Full+Stack+%7C+TypeScript+%7C+Python" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaiizer777&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaiizer777&count_bg=%237C3AED&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false" alt="Profile views"/>
+  </a>
   &nbsp;
   <a href="https://portfolio-sufiyan.pages.dev">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
