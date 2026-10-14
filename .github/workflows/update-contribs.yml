@@ -34,17 +34,20 @@ jobs:
               with urllib.request.urlopen(req) as r:
                   return json.loads(r.read())
 
-          # Search for all merged PRs authored by kaiizer777 in public repos
+          # Search merged PRs by kaiizer777 in PUBLIC repos NOT owned by kaiizer777
           url = (
               "https://api.github.com/search/issues"
-              "?q=author:kaiizer777+type:pr+is:merged+is:public"
+              "?q=author:kaiizer777+type:pr+is:merged+is:public+-user:kaiizer777"
               "&per_page=100&sort=created&order=desc"
           )
           data = gh_get(url)
           items = data.get("items", [])
 
-          # Skip PRs in the profile repo itself
-          items = [i for i in items if "kaiizer777/kaiizer777" not in i.get("repository_url", "")]
+          # Double-check: skip any repo whose owner is kaiizer777 (profile repo or forks)
+          items = [
+              i for i in items
+              if i.get("repository_url", "").split("/")[-2].lower() != "kaiizer777"
+          ]
 
           # Group by repo slug
           repos: dict[str, list] = {}
