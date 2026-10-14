@@ -66,13 +66,6 @@ Self-taught engineer specializing in **TypeScript** and **Python**, with working
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiizer777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaiizer777&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaiizer777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
 
 ---
 
@@ -86,6 +79,7 @@ Self-taught engineer specializing in **TypeScript** and **Python**, with working
   </a>
 </p>
 
+<!-- OSS_CONTRIBS_START -->
 | PR | Contribution |
 | :-- | :-- |
 | [#11687](https://github.com/better-auth/better-auth/pull/11687) | `sso` fix — allow rotating SAML IdP signing certificate with linked accounts |
@@ -97,6 +91,7 @@ Self-taught engineer specializing in **TypeScript** and **Python**, with working
 | [#11454](https://github.com/better-auth/better-auth/pull/11454) | `contributing` — updated test helper import |
 | [#11453](https://github.com/better-auth/better-auth/pull/11453) | `drizzle` — corrected the CLI command |
 | [#11703](https://github.com/better-auth/better-auth/pull/11703) | `sso` docs — clarify SAML callbackUrl vs ACS endpoint in 1.7 |
+<!-- OSS_CONTRIBS_END -->
 
 ---
 
@@ -106,4 +101,4 @@ Self-taught engineer specializing in **TypeScript** and **Python**, with working
   <sub>Portfolio · <a href="https://portfolio-sufiyan.pages.dev">portfolio-sufiyan.pages.dev</a></sub>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:06B6D4&height=120&section=footer"/>
