@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://github.com/kaiizer777">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Autonomous+AI+Agent+Builder;Self-Hosted+Deep-Research+Systems;Production+SaaS+Architect;Open+Source+Contributor;Full+Stack+%7C+TypeScript+%7C+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Autonomous+AI+Agent+Builder;Self-Hosted+Deep-Research+Systems;Production+SaaS+Architect;Open+Source+Contributor;Full+Stack+%7C+TypeScript+%7C+Python" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaiizer777&count_bg=%237C3AED&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false" alt="Profile views"/>
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkaiizer777">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkaiizer777&label=Profile%20Views&countColor=%237C3AED&style=for-the-badge" alt="Profile views"/>
   </a>
   &nbsp;
   <a href="https://portfolio-sufiyan.pages.dev">
