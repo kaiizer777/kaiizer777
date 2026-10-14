@@ -16,8 +16,6 @@
   <img src="https://img.shields.io/badge/Open%20to%20Work-00E676?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work"/>
 </p>
 
-<br/>
-
 ---
 
 <h2 align="center">⚡ Tech Stack</h2>
@@ -43,11 +41,7 @@
   </a>
 </p>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=2&section=header"/>
-
-<br/>
+---
 
 ## 🧠 About Me
 
@@ -56,8 +50,6 @@ Self-taught engineer specializing in **TypeScript** and **Python**, with working
 **Open to** remote Full Stack / AI engineering roles.
 
 > 🚀 [**MultiTenant SaaS**](https://multiitenant.online): B2B2C platform, 100+ API routes, 33 tables, tenant subdomains, GST invoicing with atomic payment allocation, AES-256-GCM PII, RAG advisor.
-
-<br/>
 
 ---
 
@@ -72,19 +64,13 @@ Self-taught engineer specializing in **TypeScript** and **Python**, with working
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiizer777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9" />
 </p>
 
-<br/>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaiizer777&theme=tokyo-night&hide_border=true&area=true&area_color=7C3AED&color=7C3AED&line=7C3AED&point=ffffff" width="100%"/>
 </p>
 
-<br/>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kaiizer777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 </p>
-
-<br/>
 
 ---
 
@@ -109,8 +95,6 @@ Self-taught engineer specializing in **TypeScript** and **Python**, with working
 | [#11454](https://github.com/better-auth/better-auth/pull/11454) | `contributing` — updated test helper import |
 | [#11453](https://github.com/better-auth/better-auth/pull/11453) | `drizzle` — corrected the CLI command |
 | [#11703](https://github.com/better-auth/better-auth/pull/11703) | `sso` docs — clarify SAML callbackUrl vs ACS endpoint in 1.7 |
-
-<br/>
 
 ---
 
