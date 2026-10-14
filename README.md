@@ -1,29 +1,102 @@
-<img src="https://raw.githubusercontent.com/kaiizer777/kaiizer777/main/assets/banner.svg" alt="Md Sufiyan Bari — Full Stack Engineer" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Md%20Sufiyan%20Bari&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Architect&descAlignY=58&descSize=20"/>
 
-# Md Sufiyan Bari
+<p align="center">
+  <a href="https://github.com/kaiizer777">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Autonomous+AI+Agent+Builder+%F0%9F%A4%96;Self-Hosted+Deep-Research+Systems+%F0%9F%94%AC;Production+SaaS+Architect+%F0%9F%9A%80;Open+Source+Contributor+%E2%9C%A8;Full+Stack+%7C+TypeScript+%7C+Python" alt="Typing SVG" />
+  </a>
+</p>
 
-**Full Stack Engineer** — autonomous AI agents, self-hosted deep-research engines, production SaaS.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kaiizer777&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
+  &nbsp;
+  <a href="https://portfolio-sufiyan.pages.dev">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Work-00E676?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work"/>
+</p>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-181717?style=flat-square&logo=githubactions&logoColor=white) ![Better Auth](https://img.shields.io/badge/BetterAuth-7C3AED?style=flat-square&logo=better-auth&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)  ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+<br/>
 
-<p align="center"><img src="https://raw.githubusercontent.com/kaiizer777/kaiizer777/main/assets/rule.svg" alt="" width="100%"></p>
+---
 
-Self-taught engineer specializing in TypeScript and Python, with working knowledge of Go and Rust. I design and ship complete systems end-to-end — from browser agents that control real Chromium instances via CDP, to serverless AI orchestrators and multi-tenant SaaS platforms with live payment infrastructure. 
+<h2 align="center">⚡ Tech Stack</h2>
+
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,py,go,rust&theme=dark&perline=4" />
+  </a>
+</p>
+
+<p align="center"><b>Frontend & Backend</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,fastapi&theme=dark&perline=5" />
+  </a>
+</p>
+
+<p align="center"><b>Infrastructure & Data</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,docker,terraform,vercel,cloudflare,aws,githubactions&theme=dark&perline=9" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=2&section=header"/>
+
+<br/>
+
+## 🧠 About Me
+
+Self-taught engineer specializing in **TypeScript** and **Python**, with working knowledge of **Go** and **Rust**. I design and ship complete systems end-to-end — from browser agents that control real Chromium instances via CDP, to serverless AI orchestrators and multi-tenant SaaS platforms with live payment infrastructure.
 
 **Open to** remote Full Stack / AI engineering roles.
 
->[**MultiTenant SaaS**](https://multiitenant.online): B2B2C platform, 100+ API routes, 33 tables, tenant subdomains, GST invoicing with atomic payment allocation, AES-256-GCM PII, RAG advisor.
+> 🚀 [**MultiTenant SaaS**](https://multiitenant.online): B2B2C platform, 100+ API routes, 33 tables, tenant subdomains, GST invoicing with atomic payment allocation, AES-256-GCM PII, RAG advisor.
 
-<p align="center"><img src="https://raw.githubusercontent.com/kaiizer777/kaiizer777/main/assets/rule.svg" alt="" width="100%"></p>
+<br/>
 
-## Open-Source Contribution
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kaiizer777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=kaiizer777&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiizer777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaiizer777&theme=tokyo-night&hide_border=true&area=true&area_color=7C3AED&color=7C3AED&line=7C3AED&point=ffffff" width="100%"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kaiizer777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+</p>
+
+<br/>
+
+---
+
+## 🌐 Open-Source Contributions
 
 **Better Auth** — 9 merged PRs (2 fixes + 7 docs) into the most comprehensive TypeScript auth framework.
 
-[![npm downloads/week](https://img.shields.io/npm/dw/better-auth?style=for-the-badge&label=npm%20downloads%2Fweek&color=00ADD8&logo=npm&logoColor=white)](https://www.npmjs.com/package/better-auth)
+<p align="left">
+  <a href="https://www.npmjs.com/package/better-auth">
+    <img src="https://img.shields.io/npm/dw/better-auth?style=for-the-badge&label=npm%20downloads%2Fweek&color=7C3AED&logo=npm&logoColor=white" />
+  </a>
+</p>
 
 | PR | Contribution |
 | :-- | :-- |
@@ -37,8 +110,14 @@ Self-taught engineer specializing in TypeScript and Python, with working knowled
 | [#11453](https://github.com/better-auth/better-auth/pull/11453) | `drizzle` — corrected the CLI command |
 | [#11703](https://github.com/better-auth/better-auth/pull/11703) | `sso` docs — clarify SAML callbackUrl vs ACS endpoint in 1.7 |
 
-<p align="center"><img src="https://raw.githubusercontent.com/kaiizer777/kaiizer777/main/assets/rule.svg" alt="" width="100%"></p>
+<br/>
 
-**B.E. Information Technology** — Rajiv Gandhi Institute of Technology, Andheri, Mumbai, India  - 2025-2029
+---
 
-<p align="center"><sub>Portfolio · <a href="https://portfolio-sufiyan.pages.dev">portfolio-sufiyan.pages.dev</a></sub></p>
+**B.E. Information Technology** — Rajiv Gandhi Institute of Technology, Andheri, Mumbai, India — 2025–2029
+
+<p align="center">
+  <sub>Portfolio · <a href="https://portfolio-sufiyan.pages.dev">portfolio-sufiyan.pages.dev</a></sub>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
