@@ -71,7 +71,7 @@ Self-taught engineer specializing in **TypeScript** and **Python**, with working
 
 ## 🌐 Open-Source Contributions
 
-**Better Auth** — 11 merged PRs (4 fixes + 7 docs) into the most comprehensive TypeScript auth framework.
+**Better Auth** — 11 merged PRs into the most comprehensive TypeScript auth framework.
 
 <p align="left">
   <a href="https://www.npmjs.com/package/better-auth">
