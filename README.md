@@ -84,8 +84,8 @@ Self-taught engineer specializing in **TypeScript** and **Python**, with working
 | :-- | :-- |
 | [#11687](https://github.com/better-auth/better-auth/pull/11687) | `sso` fix – allow rotating SAML IdP signing certificate with linked accounts |
 | [#11663](https://github.com/better-auth/better-auth/pull/11663) | `core` fix – verify Microsoft Entra ID tokens when JWKS keys omit alg |
-| [#11819](https://github.com/better-auth/better-auth/pull/11819) | `one-tap` fix – apply Google provider mapProfileToUser and getUserInfo (co-authored with @gustavovalverde) |
-| [#11730](https://github.com/better-auth/better-auth/pull/11730) | `sso` fix – accept SAML responses addressed to the callbackUrl ACS (co-authored with @gustavovalverde) |
+| [#11819](https://github.com/better-auth/better-auth/pull/11819) | `one-tap` fix – apply Google provider mapProfileToUser and getUserInfo (co-authored) |
+| [#11730](https://github.com/better-auth/better-auth/pull/11730) | `sso` fix – accept SAML responses addressed to the callbackUrl ACS (co-authored) |
 | [#11703](https://github.com/better-auth/better-auth/pull/11703) | `sso` docs – clarify SAML callbackUrl vs ACS endpoint in 1.7 |
 | [#11499](https://github.com/better-auth/better-auth/pull/11499) | `email-password` – corrected `APIMethod` contracts |
 | [#11497](https://github.com/better-auth/better-auth/pull/11497) | `magic-link` – `APIMethod` contract + documented `rateLimit` |
