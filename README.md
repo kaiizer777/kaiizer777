@@ -103,4 +103,4 @@ Self-taught engineer specializing in **TypeScript** and **Python**, with working
   <sub>Portfolio · <a href="https://portfolio-sufiyan.pages.dev">portfolio-sufiyan.pages.dev</a></sub>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:06B6D4&height=120&section=footer"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:06B6D4&height=120&section=footer"/> -->
