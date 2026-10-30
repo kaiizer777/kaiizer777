@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/kaiizer777/kaiizer777/main/assets/banner.svg" alt="Md Sufiyan Bari — Full Stack Engineer" width="100%">
 
 <p align="center">
   <a href="https://github.com/kaiizer777">
