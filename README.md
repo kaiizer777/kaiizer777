@@ -70,29 +70,52 @@ Self-taught engineer specializing in **TypeScript** and **Python**, with working
 
 ## 🌐 Open-Source Contributions
 
-**Better Auth** — 11 merged PRs into the most comprehensive TypeScript auth framework.
+A curated spotlight of upstream contributions across production auth frameworks and AI browser platforms.
 
-<p align="left">
-  <a href="https://www.npmjs.com/package/better-auth">
-    <img src="https://img.shields.io/npm/dw/better-auth?style=for-the-badge&label=npm%20downloads%2Fweek&color=7C3AED&logo=npm&logoColor=white" />
+<p align="center">
+  <a href="./CONTRIBUTIONS.md">
+    <img src="https://img.shields.io/badge/Full%20OSS%20Contributions%20Log-%E2%86%92-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Full OSS Contributions Log"/>
   </a>
 </p>
 
-<!-- OSS_CONTRIBS_START -->
-| PR | Contribution |
-| :-- | :-- |
-| [#11687](https://github.com/better-auth/better-auth/pull/11687) | `sso` fix – allow rotating SAML IdP signing certificate with linked accounts |
-| [#11663](https://github.com/better-auth/better-auth/pull/11663) | `core` fix – verify Microsoft Entra ID tokens when JWKS keys omit alg |
-| [#11819](https://github.com/better-auth/better-auth/commit/eaecb7229eeef5cfd763477b12f7dd2e44b89e51) | `one-tap` fix – apply Google provider mapProfileToUser and getUserInfo (co-authored) |
-| [#11730](https://github.com/better-auth/better-auth/commit/3720d57fb6234c52bdca23909024a09af1af26c9) | `sso` fix – accept SAML responses addressed to the callbackUrl ACS (co-authored) |
-| [#11703](https://github.com/better-auth/better-auth/pull/11703) | `sso` docs – clarify SAML callbackUrl vs ACS endpoint in 1.7 |
-| [#11499](https://github.com/better-auth/better-auth/pull/11499) | `email-password` – corrected `APIMethod` contracts |
-| [#11497](https://github.com/better-auth/better-auth/pull/11497) | `magic-link` – `APIMethod` contract + documented `rateLimit` |
-| [#11492](https://github.com/better-auth/better-auth/pull/11492) | `rate-limit` – corrected the default window |
-| [#11456](https://github.com/better-auth/better-auth/pull/11456) | `chargebee` – fixed CLI command, migration guidance |
-| [#11454](https://github.com/better-auth/better-auth/pull/11454) | `contributing` – updated test helper import |
-| [#11453](https://github.com/better-auth/better-auth/pull/11453) | `drizzle` – corrected the CLI command |
-<!-- OSS_CONTRIBS_END -->
+### 🛡️ [Better Auth](https://github.com/better-auth/better-auth)
+<p align="left">
+  <a href="https://github.com/better-auth/better-auth">
+    <img src="https://img.shields.io/badge/Repository-better--auth-black?style=flat-square&logo=github" alt="Repo"/>
+  </a>
+  &nbsp;
+  <a href="https://www.npmjs.com/package/better-auth">
+    <img src="https://img.shields.io/npm/dw/better-auth?style=flat-square&label=npm%20downloads%2Fweek&color=7C3AED&logo=npm&logoColor=white" alt="npm downloads"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Merged%20PRs-11%20Total-success?style=flat-square" alt="Merged PRs"/>
+</p>
+
+| PR | Subsystem | Contribution Description |
+| :-- | :-- | :-- |
+| [#11687](https://github.com/better-auth/better-auth/pull/11687) | `sso` | Fix: allow rotating SAML IdP signing certificate with linked accounts |
+| [#11663](https://github.com/better-auth/better-auth/pull/11663) | `core` | Fix: verify Microsoft Entra ID tokens when JWKS keys omit `alg` |
+| [#11819](https://github.com/better-auth/better-auth/commit/eaecb7229eeef5cfd763477b12f7dd2e44b89e51) | `one-tap` | Fix: apply Google provider `mapProfileToUser` and `getUserInfo` *(co-authored)* |
+| [#11730](https://github.com/better-auth/better-auth/commit/3720d57fb6234c52bdca23909024a09af1af26c9) | `sso` | Fix: accept SAML responses addressed to the `callbackUrl` ACS *(co-authored)* |
+
+### ⚡ [Steel Browser](https://github.com/steel-dev/steel-browser)
+<p align="left">
+  <a href="https://github.com/steel-dev/steel-browser">
+    <img src="https://img.shields.io/badge/Repository-steel--browser-black?style=flat-square&logo=github" alt="Repo"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20CDP%20Infrastructure-blue?style=flat-square" alt="Focus"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Merged%20PRs-2%20Fixes-success?style=flat-square" alt="Merged PRs"/>
+</p>
+
+| PR | Subsystem | Contribution Description |
+| :-- | :-- | :-- |
+| [#405](https://github.com/steel-dev/steel-browser/pull/405) | `casting` | Fix: validate session ID from URL against active session (prevents unauthorized cast takeover) |
+| [#389](https://github.com/steel-dev/steel-browser/pull/389) | `api` | Fix: cleanup session when casting target page is not found (resolves CDP connection leak, #388) |
+
+> 🔍 **Looking for full history and architectural reports?**  
+> 👉 **[View Full Open-Source Contributions Log (All PRs & Fixes)](./CONTRIBUTIONS.md)**
 
 ---
 
