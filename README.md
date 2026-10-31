@@ -70,7 +70,7 @@ Self-taught engineer specializing in **TypeScript** and **Python**, with working
 
 ## 🌐 Open-Source Contributions
 
-A curated spotlight of upstream contributions across production auth frameworks and AI browser platforms.
+A curated spotlight of upstream contributions across production auth frameworks and Agentic browser infra.
 
 <p align="center">
   <a href="./CONTRIBUTIONS.md">
