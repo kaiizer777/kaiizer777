@@ -114,8 +114,6 @@ A curated spotlight of upstream contributions across production Auth frameworks 
 | [#405](https://github.com/steel-dev/steel-browser/pull/405) | `casting` | Fix: validate session ID from URL against active session (prevents unauthorized cast takeover) |
 | [#389](https://github.com/steel-dev/steel-browser/pull/389) | `api` | Fix: cleanup session when casting target page is not found (resolves CDP connection leak, #388) |
 
-> 🔍 **Looking for full history and architectural reports?**  
-> 👉 **[View Full Open-Source Contributions Log (All PRs & Fixes)](./CONTRIBUTIONS.md)**
 
 ---
 
