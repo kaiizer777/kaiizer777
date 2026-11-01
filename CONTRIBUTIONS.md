@@ -8,6 +8,7 @@ A comprehensive record of upstream open-source contributions, engineering fixes,
 
 - [Better Auth](#-better-auth)
 - [Steel Browser](#-steel-browser)
+  - [Architectural Vulnerability & Bug Reports](#architectural-vulnerability--bug-reports)
 
 ---
 
@@ -48,5 +49,11 @@ A comprehensive record of upstream open-source contributions, engineering fixes,
 | :--- | :--- | :--- | :--- |
 | **[#405](https://github.com/steel-dev/steel-browser/pull/405)** | `casting` | [#404](https://github.com/steel-dev/steel-browser/issues/404) | **Validate session ID from URL against active session**: Patched a critical security check in `/v1/sessions/:id/cast` where arbitrary IDs were accepted, preventing unauthorized callers from hijacking active screencasts and injecting mouse/keyboard events. |
 | **[#389](https://github.com/steel-dev/steel-browser/pull/389)** | `api` | [#388](https://github.com/steel-dev/steel-browser/issues/388) | **Cleanup session when casting target page is not found**: Resolved a persistent Puppeteer CDP WebSocket connection leak when screencast clients requested closed or non-existent `pageId` / `pageIndex`. Added unit test suite with 5 regression tests. |
+
+### Architectural Vulnerability & Bug Reports
+
+| Upstream Fix | Area | Severity / Type | Description & Analysis |
+| :--- | :--- | :--- | :--- |
+| **[#413](https://github.com/steel-dev/steel-browser/pull/413)** | `browser-socket` / `security` | Denial of Service (DoS) | **Unhandled exception in the HTTP upgrade handler**: Independently identified that `api/src/plugins/browser-socket/browser-socket.ts` parses upgrade query params via ``new URL(url, `http://${request.headers.host}`)`` outside any `try` / `catch`, so a malformed, whitespace-bearing, or absent `Host` header throws `TypeError: Invalid URL` synchronously. The throw escapes Node's raw `upgrade` event listener, reaches `process.emit("uncaughtException")`, and kills the entire Fastify daemon on an unauthenticated request — taking every active browser session down with it. Rated High (CVSS 3.1: 7.5, `AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H`; CWE-248 / CWE-754 / CWE-20), affecting `/v1/sessions/cast`, `/v1/sessions/connect`, and the CDP proxy sockets. Hardened upstream in [#413](https://github.com/steel-dev/steel-browser/pull/413). |
 
 ---
