@@ -94,7 +94,7 @@ A curated spotlight of upstream contributions across production Auth frameworks 
 | [#405](https://github.com/steel-dev/steel-browser/pull/405) | `casting` | Fix: validate session ID from URL against active session (prevents unauthorized cast takeover) |
 | [#389](https://github.com/steel-dev/steel-browser/pull/389) | `api` | Fix: cleanup session when casting target page is not found (resolves CDP connection leak, #388) |
 
-> 🔒 **Security research:** independently traced an unhandled-exception DoS in the `browser-socket` HTTP upgrade handler, hardened upstream in [#413](https://github.com/steel-dev/steel-browser/pull/413).
+> 🔒 **Security research:** traced an unhandled `TypeError: Invalid URL` DoS in the `browser-socket` HTTP upgrade handler, hardened upstream in [#413](https://github.com/steel-dev/steel-browser/pull/413).
 
 ### 🛡️ [Better Auth](https://github.com/better-auth/better-auth)
 <p align="left">
