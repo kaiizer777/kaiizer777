@@ -78,6 +78,24 @@ A curated spotlight of upstream contributions across production Auth frameworks 
   </a>
 </p>
 
+### ⚡ [Steel Browser](https://github.com/steel-dev/steel-browser)
+<p align="left">
+  <a href="https://github.com/steel-dev/steel-browser">
+    <img src="https://img.shields.io/badge/Repository-steel--browser-black?style=flat-square&logo=github" alt="Repo"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20CDP%20Infrastructure-blue?style=flat-square" alt="Focus"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Merged%20PRs-2%20Fixes-success?style=flat-square" alt="Merged PRs"/>
+</p>
+
+| PR | Subsystem | Contribution Description |
+| :-- | :-- | :-- |
+| [#405](https://github.com/steel-dev/steel-browser/pull/405) | `casting` | Fix: validate session ID from URL against active session (prevents unauthorized cast takeover) |
+| [#389](https://github.com/steel-dev/steel-browser/pull/389) | `api` | Fix: cleanup session when casting target page is not found (resolves CDP connection leak, #388) |
+
+---
+
 ### 🛡️ [Better Auth](https://github.com/better-auth/better-auth)
 <p align="left">
   <a href="https://github.com/better-auth/better-auth">
@@ -97,22 +115,6 @@ A curated spotlight of upstream contributions across production Auth frameworks 
 | [#11663](https://github.com/better-auth/better-auth/pull/11663) | `core` | Fix: verify Microsoft Entra ID tokens when JWKS keys omit `alg` |
 | [#11819](https://github.com/better-auth/better-auth/commit/eaecb7229eeef5cfd763477b12f7dd2e44b89e51) | `one-tap` | Fix: apply Google provider `mapProfileToUser` and `getUserInfo` *(co-authored)* |
 | [#11730](https://github.com/better-auth/better-auth/commit/3720d57fb6234c52bdca23909024a09af1af26c9) | `sso` | Fix: accept SAML responses addressed to the `callbackUrl` ACS *(co-authored)* |
-
-### ⚡ [Steel Browser](https://github.com/steel-dev/steel-browser)
-<p align="left">
-  <a href="https://github.com/steel-dev/steel-browser">
-    <img src="https://img.shields.io/badge/Repository-steel--browser-black?style=flat-square&logo=github" alt="Repo"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20CDP%20Infrastructure-blue?style=flat-square" alt="Focus"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Merged%20PRs-2%20Fixes-success?style=flat-square" alt="Merged PRs"/>
-</p>
-
-| PR | Subsystem | Contribution Description |
-| :-- | :-- | :-- |
-| [#405](https://github.com/steel-dev/steel-browser/pull/405) | `casting` | Fix: validate session ID from URL against active session (prevents unauthorized cast takeover) |
-| [#389](https://github.com/steel-dev/steel-browser/pull/389) | `api` | Fix: cleanup session when casting target page is not found (resolves CDP connection leak, #388) |
 
 
 ---
