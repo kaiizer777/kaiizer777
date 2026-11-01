@@ -96,8 +96,6 @@ A curated spotlight of upstream contributions across production Auth frameworks 
 
 | Issue | Area | Severity / Impact |
 | :-- | :-- | :-- |
-| [#411](https://github.com/steel-dev/steel-browser/issues/411) | `api` / `quota` | DoS: `maxSizePerSession` never enforced, so cumulative file uploads grow unbounded *(open)* |
-| [#408](https://github.com/steel-dev/steel-browser/issues/408) | `api` / `selenium` | DoS: unhandled `ENOENT` from `spawn("java")` kills the daemon on `POST /v1/sessions` *(open)* |
 | [#404](https://github.com/steel-dev/steel-browser/issues/404) | `casting` / `security` | Auth bypass: session ID from URL never validated, allowing cast takeover *(fixed in [#405](https://github.com/steel-dev/steel-browser/pull/405))* |
 | [#395](https://github.com/steel-dev/steel-browser/issues/395) | `ui` / `memory` | Resource leak: WebSocket leak on every `SessionLogs` unmount *(fixed upstream in [#402](https://github.com/steel-dev/steel-browser/pull/402))* |
 | [#388](https://github.com/steel-dev/steel-browser/issues/388) | `api` / `cdp` | Resource leak: Puppeteer CDP handle leak on invalid target page *(fixed in [#389](https://github.com/steel-dev/steel-browser/pull/389))* |
