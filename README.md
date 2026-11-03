@@ -58,7 +58,7 @@ Self-taught engineer specializing in **TypeScript** and **Python**, with working
 
 <p align="center">
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=kaiizer777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github&cache_seconds=1800" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=kaiizer777&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=kaiizer777&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED" />
 </p>
 
 <p align="center">
