@@ -46,7 +46,7 @@
 
 ## 🧠 About Me
 
-Self-taught engineer specializing in **TypeScript** and **Python**, with working knowledge of **Go** and **Rust**. I design and ship complete systems end-to-end — from browser agents that control real Chromium instances via CDP, to serverless AI orchestrators and multi-tenant SaaS platforms with live payment infrastructure.
+Self-taught engineer specializing in **TypeScript** and **Python**, with working knowledge of **Go** and **Rust**. I love designing and shiping complete systems end-to-end — from browser agents that control real Chromium instances via CDP, to serverless AI orchestrators and multi-tenant SaaS platforms with live payment infrastructure.
 
 **Open to** remote Full Stack / AI engineering roles.
 
