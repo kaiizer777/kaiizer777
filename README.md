@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/kaiizer777">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Autonomous+AI+Agent+Builder;Self-Hosted+Deep-R[...]
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Autonomous+AI+Agent+Builder;Self-Hosted+Deep-Research+Systems;Production+SaaS+Architect;Open+Source+Contributor;Full+Stack+%7C+TypeScript+%7C+Python" alt="Typing SVG" />
   </a>
 </p>
 
@@ -46,23 +46,24 @@
 
 ## 🧠 About Me
 
-Self-taught engineer specializing in **TypeScript**, with working knowledge of **Go**, **Rust** and **Python**. I love designing and shipping complete systems end-to-end — from browser agents to production infrastructure.
+Self-taught engineer specializing in **TypeScript** and **Python**, with working knowledge of **Go** and **Rust**. I love designing and shiping complete systems end-to-end — from browser agents that control real Chromium instances via CDP, to serverless AI orchestrators and multi-tenant SaaS platforms with live payment infrastructure.
+Self-taught engineer specializing in **TypeScript**, with working knowledge of **Go**, **Rust** and **Python**. I love designing and shiping complete systems end-to-end — from browser agents that control real Chromium instances via CDP, to serverless AI orchestrators and multi-tenant SaaS platforms with live payment infrastructure.
 
 **Open to** remote Full Stack / AI engineering roles.
 
-> 🚀 [**MultiTenant SaaS**](https://multiitenant.online): B2B2C platform, 100+ API routes, 33 tables, tenant subdomains, GST invoicing with atomic payment allocation, AES-256-GCM PII, RAG advisory engine, RBAC, and unified billing orchestration.
+> 🚀 [**MultiTenant SaaS**](https://multiitenant.online): B2B2C platform, 100+ API routes, 33 tables, tenant subdomains, GST invoicing with atomic payment allocation, AES-256-GCM PII, RAG advisor.
 
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=kaiizer777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=7C3AED&text_color=F1F5F9&icon_color=7C3AED" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=kaiizer777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github&cache_seconds=1800" />
   <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=kaiizer777&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaiizer777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=7C3AED&text_color=F1F5F9" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaiizer777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&cache_seconds=1800" />
 </p>
 
 
