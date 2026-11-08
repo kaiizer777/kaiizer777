@@ -47,9 +47,7 @@
 ## 🧠 About Me
 
 Self-taught engineer specializing in **TypeScript** with working knowledge of **Go**, **Rust** and **Python**. I love designing and shiping complete systems end-to-end — from browser agents that control real Chromium instances via CDP, to serverless AI orchestrators and multi-tenant SaaS platforms with live payment infrastructure.
-Self-taught engineer specializing in **TypeScript**, with working knowledge of **Go**, **Rust** and **Python**. I love designing and shiping complete systems end-to-end — from browser agents that control real Chromium instances via CDP, to serverless AI orchestrators and multi-tenant SaaS platforms with live payment infrastructure.
 
-**Open to** remote Full Stack / AI engineering roles.
 
 > 🚀 [**MultiTenant SaaS**](https://multiitenant.online): B2B2C platform, 100+ API routes, 33 tables, tenant subdomains, GST invoicing with atomic payment allocation, AES-256-GCM PII, RAG advisor.
 
