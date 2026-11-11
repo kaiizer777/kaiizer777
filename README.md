@@ -60,10 +60,6 @@ Self-taught engineer specializing in **TypeScript** with working knowledge of **
   <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=kaiizer777&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED&cache_seconds=1800" />
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaiizer777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&cache_seconds=1800" />
-</p>
-
 
 ---
 
