@@ -19,6 +19,8 @@ A comprehensive record of upstream open-source contributions by [Mohd Sufiyan (@
 | [#11456](https://github.com/better-auth/better-auth/pull/11456) | `chargebee` / `docs` | Fix CLI command and update migration guidance. |
 | [#11454](https://github.com/better-auth/better-auth/pull/11454) | `docs` | Update test helper import in contributing guide. |
 | [#11453](https://github.com/better-auth/better-auth/pull/11453) | `drizzle` / `docs` | Update CLI command in drizzle adapter guide. |
+| [#11819](https://github.com/better-auth/better-auth/pull/11819) | `one-tap` | Apply Google provider `mapProfileToUser` and `getUserInfo` *(co-authored)*. |
+| [#11730](https://github.com/better-auth/better-auth/pull/11730) | `sso` | Accept SAML responses addressed to the `callbackUrl` ACS *(co-authored)*. |
 
 ---
 
