@@ -24,14 +24,14 @@
 <p align="center"><b>Languages</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,py,go,rust&theme=dark&perline=4" />
+    <img src="https://skillicons.dev/icons?i=ts,go,rust&theme=dark&perline=4" />
   </a>
 </p>
 
 <p align="center"><b>Frontend & Backend</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,fastapi&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs&theme=dark&perline=5" />
   </a>
 </p>
 
