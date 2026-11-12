@@ -31,7 +31,7 @@
 <p align="center"><b>Frontend & Backend</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,go,rust,htmx,actix,rocket,yew,tauri&theme=dark&perline=6" />
   </a>
 </p>
 
