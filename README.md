@@ -24,7 +24,7 @@
 <p align="center"><b>Languages</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,go,rust&theme=dark&perline=4" />
+    <img src="https://skillicons.dev/icons?i=ts,rust,go&theme=dark&perline=4" />
   </a>
 </p>
 
@@ -46,7 +46,7 @@
 
 ## 🧠 About Me
 
-Self-taught engineer specializing in **TypeScript** with working knowledge of **Go**, **Rust** and **Python**. I love designing and shiping complete systems end-to-end — from browser agents that control real Chromium instances via CDP, to serverless AI orchestrators and multi-tenant SaaS platforms with live payment infrastructure.
+Specializing in **TypeScript** & **Rust** with working knowledge of **Go**. I like designing and shiping complete systems end-to-end — from browser agents that control real Chromium instances via CDP, to serverless AI orchestrators and multi-tenant SaaS platforms with live payment infrastructure.
 
 
 > 🚀 [**MultiTenant SaaS**](https://multiitenant.online): B2B2C platform, 100+ API routes, 33 tables, tenant subdomains, GST invoicing with atomic payment allocation, AES-256-GCM PII, RAG advisor.
