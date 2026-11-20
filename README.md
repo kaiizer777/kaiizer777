@@ -1,5 +1,3 @@
-<h2 align="center">⚡ Tech Stack</h2>
-
 <p align="center"><b>Languages</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
