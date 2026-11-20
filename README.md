@@ -1,24 +1,3 @@
-
-<p align="center">
-  <a href="https://github.com/kaiizer777">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Autonomous+AI+Agent+Builder;Self-Hosted+Deep-Research+Systems;Production+SaaS+Architect;Open+Source+Contributor;Full+Stack+%7C+TypeScript+%7C+Python" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkaiizer777">
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkaiizer777&label=Profile%20Views&countColor=%237C3AED&style=for-the-badge" alt="Profile views"/>
-  </a>
-  &nbsp;
-  <a href="https://portfolio-sufiyan.pages.dev">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Work-00E676?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work"/>
-</p>
-
----
-
 <h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center"><b>Languages</b></p>
@@ -43,6 +22,21 @@
 </p>
 
 ---
+
+<p align="center">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkaiizer777">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkaiizer777&label=Profile%20Views&countColor=%237C3AED&style=for-the-badge" alt="Profile views"/>
+  </a>
+  &nbsp;
+  <a href="https://portfolio-sufiyan.pages.dev">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Work-00E676?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work"/>
+</p>
+
+---
+
 
 ## 🧠 About Me
 
