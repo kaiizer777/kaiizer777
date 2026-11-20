@@ -15,7 +15,7 @@
 <p align="center"><b>Infrastructure & Data</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,docker,terraform,vercel,cloudflare,aws,githubactions&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=postgres,redis,docker,terraform,vercel,cloudflare,aws,githubactions&theme=dark&perline=9" />
   </a>
 </p>
 
